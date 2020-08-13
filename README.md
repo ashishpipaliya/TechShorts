@@ -3,11 +3,11 @@
 Flutter Application to display coding news from various sources like codeburst.io, towardsdatascience.com and many more.
 Based on REST API built using node-express and cloud firestore as database.
 
-![techshorts2](https://user-images.githubusercontent.com/32923529/90110112-59239f00-dd6a-11ea-8344-9d2a69ecf35b.png)
+![techshorts3](https://user-images.githubusercontent.com/32923529/90111350-29759680-dd6c-11ea-837a-bdac7c637869.png)
 
-![techshorts1](https://user-images.githubusercontent.com/32923529/90110124-5f198000-dd6a-11ea-8d4d-9ce67995c52d.png)
+![techshorts1](https://user-images.githubusercontent.com/32923529/90111368-309ca480-dd6c-11ea-84ce-32106e21cf92.png)
 
-![techshorts3](https://user-images.githubusercontent.com/32923529/90110127-5fb21680-dd6a-11ea-9157-98847726b958.png)
+![techshorts2](https://user-images.githubusercontent.com/32923529/90111373-31cdd180-dd6c-11ea-9e12-d294b7f6d9e7.png)
 
 ## Getting Started
 
