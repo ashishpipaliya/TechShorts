@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:techshorts/constants/kolors.dart';
 import 'package:techshorts/pages/homepage.dart';
 
 void main() {
@@ -10,12 +11,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
       title: 'TechShorts',
-      theme: ThemeData(primaryColor: Colors.white, accentColor: Colors.white),
-//      darkTheme: ThemeData(
-//        brightness: Brightness.dark,
-//      ),
+      theme: lightTheme,
+      darkTheme: darkTheme,
       home: HomePage(),
     );
   }
